@@ -6,3 +6,7 @@ So I decided to do something. I've done music clusterization - and got some resu
 
 Someday I'll do something good here, but not today.
 
+---
+Some insights for me for future:
+
+https://arxiv.org/pdf/1811.06633.pdf
