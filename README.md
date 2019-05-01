@@ -1,7 +1,7 @@
 # music_collection_pipeline
 
 Some initial research on sound processing and analysis.
-Hope someday I'll find more time and build a perfect for my music sense recommendation system
+Hope one day I'll find more time and build a perfect for my music sense recommendation system
 
 ---
 Some insights for future me:
