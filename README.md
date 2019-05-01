@@ -1,12 +1,19 @@
 # music_collection_pipeline
 
-One day I so fucked up when finally found good-for-mood song changed once again to fucking unsuitable one! And sometimes your library is so huge that you can't fastly say which one is good for the next in your shuffle list. And why you must do this by your own?
-
-So I decided to do something. I've done music clusterization - and got some results!! God, it was fucking lol.
-
-Someday I'll do something good here, but not today.
+Some initial research on sound processing and analysis.
+Hope someday I'll find more time and build a perfect for my music sense recommendation system
 
 ---
-Some insights for me for future:
+Some insights for future me:
+
+**Generating Albums with SampleRNN
+to Imitate Metal, Rock, and Punk Bands**
 
 https://arxiv.org/pdf/1811.06633.pdf
+
+
+**Semantic audio content-based music recommendation
+and visualization based on user preference examples**
+
+http://mtg.upf.edu/system/files/publications/bogdanov_IPM2012.pdf
+
